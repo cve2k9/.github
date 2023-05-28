@@ -3,9 +3,10 @@
      </p>
 <div align="center">
      <b>CVEHUNTERS2009, or CVE2k9 for short, is a CTF (Capture the Flag) team founded in 2023 with friends from all around the world~</b>
-     </div>
+     <br>
      <br>
      
-⏰ CTFTime : https://ctftime.org/team/214211   
-🌈 Members : https://cve.gay/members.html    
-👩‍💻 Writeups : https://wiki.cve.gay/   
+<div><b>⏰ CTFTime : https://ctftime.org/team/214211   <br>
+🌈 Members : https://cve.gay/members.html    <br>
+👩‍💻 Writeups : https://wiki.cve.gay/   </div></b>
+     </div>
